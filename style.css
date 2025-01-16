@@ -1,0 +1,380 @@
+
+.top{
+    background: rgba(229, 84, 115, 0.1);
+    width: 100%;
+height: 850px;
+
+
+}
+
+.top-content{
+    display: flex;
+    justify-content: space-around;
+}
+
+.t-text{
+    width: 708px;
+height: 506px;
+left: 240px;
+right: 972px;
+top: 197px;
+margin-top: 197px;;
+}
+.t-title{
+    font-size: 80px;
+font-weight: 800;
+line-height: 96px;
+}
+.t-des{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.t-btn{
+    border-radius: 8px;
+ color: aliceblue;
+background: rgb(229, 84, 115);
+width: 127px;
+height: 44px;
+border: none;
+}
+.top-img{
+    width: 635px;
+height: 800px;
+margin-top: 50px;
+}
+.hero-text{
+    width: 594px;
+height: 132px;
+margin: 0 auto;
+}
+.hero-title{
+    font-size: 40px;
+font-weight: 800;
+line-height: 48px;
+text-align: center;
+}
+.hero-des{
+    font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+text-align: center;
+color: rgba(39, 39, 39, 0.6);
+}
+.hero-img{
+    width: 1440px;
+height: 605px;
+margin-left: 240px;
+margin-right: 240px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.img{
+width: 1440px;
+height: 605px;
+left: 240px;
+right: 240px;
+margin-top: 48px;
+margin: 24px;
+
+}
+.img p{
+font-size: 24px;
+font-weight: 700;
+line-height: 35px;
+text-align: center;
+}
+/* Delever hero 2 */
+.hero-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.delevery{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 1420px;
+height: 320px;
+border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+}
+.d-des{
+    color: rgba(39, 39, 39, 0.8);
+   text-align: center;
+   font-size: 24px;
+font-weight: 600;
+line-height: 35px;
+margin-left: 20px;
+}
+.delevery img{
+    width: 77px;
+height: 82.5px;
+margin-left: 40%;
+margin-top: 88px;
+}
+/* Hot deal */
+.hot-deal{
+    margin-top: 128px;
+    display: flex;
+    justify-content: space-around;
+    height: 620px;
+    width: 100%;
+    background: rgba(229, 84, 115, 0.05);
+}
+.Hd-text{
+    width: 594px;
+height: 228px;
+margin-top: 230px;
+}
+.hd-title{
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 48px;
+    text-align: center;
+}
+.hd-title span{
+    color: rgb(229, 84, 115);
+}
+.hd-des{
+    color: rgba(39, 39, 39, 0.6);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+
+}
+.hd-btn{
+    width: 105px;
+    height: 44px;
+    border-radius: 8px;
+    background: rgb(229, 84, 115);
+    color: aliceblue;
+    margin-left: 208px;
+    
+    border: none;
+}
+
+.hd-img{
+    margin-top: 100px;
+
+}
+/* insta */
+.insta{
+    margin: 0 auto;
+    width: 594px;
+height: 132px;
+margin-top: 128px;
+margin-bottom: 48px;
+}
+.insta-title{
+    font-size: 40px;
+font-weight: 800;
+line-height: 48px;
+text-align: center;
+}
+.insta-des{
+    font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+text-align: center;
+}
+/* insta img sec */
+.insta-imges{
+    width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+.insta-img{
+    width: 342px;
+height: 396px;
+}
+
+/* contact */
+
+.contact{
+    width: 1440px;
+height: 449px;
+margin: 0 auto;
+background-image: url('flower-shop-assignment/Flower Asset/Rectangle 9.png');
+margin-top: 128px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.c-text{
+    width: 866px;
+height: 206px;
+margin: 0 auto;
+
+}
+.c-title{
+    text-align: center;
+    font-size: 40px;
+font-weight: 800;
+}
+.c-des{
+    font-size: 18px;
+font-weight: 400;
+color: rgba(39, 39, 39, 0.6);
+text-align: center;
+}
+.em{
+    width: 400px;
+    height: 34px;
+}
+.sm{
+    width: 90px;
+height: 39px;
+border-radius: 8px;
+background: rgb(229, 84, 115);
+border: none;
+}
+.input{
+   margin-left: 217px;
+}
+/* Footer */
+footer{
+    margin-top: 128px;
+    width: 100%;
+height: 449px;
+background: rgb(17, 16, 16);
+}
+.f-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.f-title{
+    text-align: center;
+    font-size: 48px;
+font-weight: 800;
+line-height: 58px;
+margin-top: 128px;
+color: aliceblue;
+}
+.f-title span{
+    color: rgb(229, 84, 115);
+}
+.f-des{
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+text-align: center;
+}
+small{
+    color: rgba(255, 255, 255, 0.4);
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+text-align: center;
+}
+
+
+
+
+
+
+
+
+/* Respon-sive */
+@media screen and (max-width:576px){
+  
+   .top-content  {
+    flex-direction: column;
+    height: auto;
+    width: 100%;
+   } 
+   .top-img{
+    background: none;
+   }
+  
+   .top , .t-text  {
+    width: auto;
+    height: auto;
+   }
+   .top-img{
+    display: none;
+   }
+   .t-title{
+    font-size: 45px;
+   }
+   .t-text{
+    margin-top: 10px;
+    margin-bottom: 10px;
+   }
+   .hero-img{
+    flex-direction: column;
+    margin: 0;
+    margin-top: 30px;
+    width: 100%;
+    
+   }
+   .hero-text{
+    margin: 0;
+    width: auto;
+   }
+   .hero-title{
+    font-size:30px ;
+   }
+   .img{
+    width: 100%;
+  }
+
+
+  .delevery{
+    flex-direction: column;
+    width: 100%;
+    margin-top: 1000px;
+    height: 900px;
+  }
+  .hot-deal{
+    flex-direction: column;
+    height: 100px;
+  }
+  .Hd-text{
+    width: auto;
+  }
+
+  .hd-btn{
+    margin: auto;
+  }
+  .insta{
+    width: auto;
+    margin-top: 940px;
+  }
+  .insta-title{
+    font-size: 30px;
+  }
+  .insta-des{
+    font-size: 14px;
+  }
+  .insta-imges{
+    flex-direction: column;
+    width: 100%;
+ gap: 10px;
+  }
+  .insta-img{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .contact{
+    width: 100%;
+  }
+  .input , .em{
+    margin-left: 10px;
+    width: auto;
+}
+.c-title{
+    font-size: 30px;
+}
+
+}
